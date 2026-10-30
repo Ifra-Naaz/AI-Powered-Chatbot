@@ -4,7 +4,14 @@
 ![MySQL](https://img.shields.io/badge/Database-MySQL-orange)
 ![JavaScript](https://img.shields.io/badge/Frontend-JavaScript-yellow)
 An intelligent chatbot application built using **Python, Django, MySQL, HTML, CSS, JavaScript and Ollama**. It allows users to interact with an AI assistant, maintain conversation history, and manage their chats through a simple and user-friendly interface.
+### Chatbot Interface
+![Chatbot Home](Screenshots/chatbot-home.png)
 
+### AI Conversation
+![AI Response](Screenshots/chatbot-response.png)
+
+### Conversation History
+![Chat History](Screenshots/chat-history.png)
 ## ✨ Features
 
 - 💬 AI-powered conversations using Ollama.
@@ -175,11 +182,3 @@ GitHub: [Ifra-Naaz](https://github.com/Ifra-Naaz)
 ---
 
 ⭐ If you find this project interesting, feel free to explore the repository!
-### Chatbot Interface
-![Chatbot Home](Screenshots/chatbot-home.png)
-
-### AI Conversation
-![AI Response](Screenshots/chatbot-response.png)
-
-### Conversation History
-![Chat History](Screenshots/chat-history.png)
