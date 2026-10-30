@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/project-banner.png" width="100%" alt="AI-Powered Chatbot Banner">
+</p>
 # 🤖 AI-Powered Chatbot
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![Django](https://img.shields.io/badge/Django-6.1-green)
